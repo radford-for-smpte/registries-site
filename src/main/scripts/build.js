@@ -31,7 +31,6 @@ const fs = require('fs');
 const path = require('path');
 const puppeteer = require('puppeteer');
 const proc = require('child_process');
-const ajv = require('ajv');
 
 
 const REGISTRIES_REPO_PATH = "external/registries";
